@@ -22,13 +22,17 @@ It takes a **text prompt** and produces **high-resolution (256×256) images** by
 
 ---
 
-📦 Dependencies
+### 🛠️ Technologies Used
+- **Programming Language:** Python 3  
+- **Libraries & Frameworks:**
+  - **PyTorch** → Deep learning framework for model loading & inference  
+  - **GLIDE (OpenAI Glide-Text2IM)** → Text-to-Image generation model  
+  - **HuggingFace Transformers / Diffusers** → For handling pretrained models and pipelines  
+  - **PIL (Python Imaging Library)** → Image processing and display  
+  - **IPython.display** → Displaying images in Jupyter/Colab  
+- **Tools:**
+  - Google Colab / Jupyter Notebook for execution  
+  - GitHub for version control and project hosting  
+  - CUDA (if GPU available) for faster model inference  
 
-The following Python libraries are required:
-
-torch
-torchvision
-pillow
-numpy
-tqdm
-ipython
+---
