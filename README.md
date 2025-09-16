@@ -34,5 +34,4 @@ It takes a **text prompt** and produces **high-resolution (256×256) images** by
   - Google Colab / Jupyter Notebook for execution  
   - GitHub for version control and project hosting  
   - CUDA (if GPU available) for faster model inference  
-
 ---
