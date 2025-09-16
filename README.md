@@ -16,7 +16,7 @@ It takes a **text prompt** and produces **high-resolution (256×256) images** by
 
 ## 📂 Repository Structure
 📦 glide-text2im-project/
-├── 📄 glide_text2im_notebook.ipynb # Main Colab notebook implementation
+├── 📄 clip_guided_notebook.ipynb # Main Colab notebook implementation
 ├── 📄 README.md # Project documentation
 └── 📁 samples/ # Generated images 
 
